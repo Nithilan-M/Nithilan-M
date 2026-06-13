@@ -34,9 +34,22 @@ nithilan = {
 - 🔧 Building **production-grade ELT pipelines** with Airbyte & dbt  
 - 🤖 Exploring **AI agent automation** using Lyzr AI 
 
-<br clear="right"/>
-
 ---
+
+## 💼 Experience
+
+```
+[ Feb 2026 – Present ]  Data Engineering Intern @ FirstSource Solutions
+                        ├── Airbyte pipelines: API + DB → relational systems
+                        ├── ELT workflows: schema mapping, incremental sync, dbt transforms
+                        ├── AI agents with Lyzr AI for workflow orchestration
+                        └── Production debugging, validation, pipeline monitoring
+
+[ Jun 2025 – Jul 2025 ]  Web Dev Intern @ Zimro Private Limited, Chennai
+                         ├── Responsive UI with HTML/CSS/JS
+                         ├── API integration with backend teams
+                         └── Git-based version control & code reviews
+```
 
 ## 🛠️ Tech Stack
 
@@ -128,20 +141,6 @@ A backend-driven scheduling platform handling live appointment logic.
 
 ---
 
-## 💼 Experience
-
-```
-[ Feb 2026 – Present ]  Data Engineering Intern @ FirstSource Solutions
-                        ├── Airbyte pipelines: API + DB → relational systems
-                        ├── ELT workflows: schema mapping, incremental sync, dbt transforms
-                        ├── AI agents with Lyzr AI for workflow orchestration
-                        └── Production debugging, validation, pipeline monitoring
-
-[ Jun 2025 – Jul 2025 ]  Web Dev Intern @ Zimro Private Limited, Chennai
-                         ├── Responsive UI with HTML/CSS/JS
-                         ├── API integration with backend teams
-                         └── Git-based version control & code reviews
-```
 
 ---
 
