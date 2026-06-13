@@ -143,16 +143,6 @@ A backend-driven scheduling platform handling live appointment logic.
                          └── Git-based version control & code reviews
 ```
 
----
-
-## 🏆 Achievements
-
-| 🥇 | Event | What I Built |
-|---|---|---|
-| **Top 10** | Hack the Horizon 2.0 (2025) | Real-time AI sentiment analysis platform |
-| **Top Performer** | Design Thinking Contest (2025) | Smart Bike IoT security system |
-
----
 
 ## 📊 GitHub Stats
 
