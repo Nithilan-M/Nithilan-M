@@ -31,8 +31,8 @@ nithilan = {
 }
 ```
 
-- 🔧 Building **production-grade ELT pipelines** with Airbyte & dbt  
-- 🤖 Exploring **AI agent automation** using Lyzr AI 
+- 🔧 Building **production-grade ELT pipelines** with Airbyte & dbt
+- 🤖 Exploring **AI agent automation** using Lyzr AI
 
 ---
 
@@ -50,6 +50,8 @@ nithilan = {
                          ├── API integration with backend teams
                          └── Git-based version control & code reviews
 ```
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -138,9 +140,6 @@ A backend-driven scheduling platform handling live appointment logic.
 </td>
 </tr>
 </table>
-
----
-
 
 ---
 
