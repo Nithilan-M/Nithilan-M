@@ -108,7 +108,7 @@ A backend-first ETL middleware built for resilient, real-time data flows.
 </td>
 <td width="50%" valign="top">
 
-### 🩺 DocLynk — Doctor Appointment Scheduler
+### 🩺 DocLynk - Doctor Patient Appointment Scheduler
 > *Concurrent booking system with real-time slot management*
 
 A backend-driven scheduling platform handling live appointment logic.
