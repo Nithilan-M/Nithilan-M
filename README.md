@@ -29,7 +29,7 @@ nithilan = {
     "studying"  : "B.E. Computer Science, REC Chennai (2027)",
     "focus"     : ["Data Pipelines", "Backend Systems", "AI Agents"],
     "currently" : "Building ELT workflows & AI-powered orchestration",
-    "open_to"   : "Decision Science & Data Engineering roles (2027)"
+    "open_to"   : "Software Development & Data Engineering roles (2027)"
 }
 ```
 
