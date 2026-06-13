@@ -34,9 +34,7 @@ nithilan = {
 ```
 
 - 🔧 Building **production-grade ELT pipelines** with Airbyte & dbt  
-- 🤖 Exploring **AI agent automation** using Lyzr AI  
-- 📊 Solving **Medium-level problems** on LeetCode  
-- 🏆 Hackathon Top-10 builder — real-time AI sentiment analysis
+- 🤖 Exploring **AI agent automation** using Lyzr AI   
 
 <br clear="right"/>
 
