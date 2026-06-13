@@ -161,16 +161,6 @@ A backend-driven scheduling platform handling live appointment logic.
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=Nithilan-M&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff" />
 </div>
 
----
-
-## 📚 Currently Learning
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓░░  SQL & Advanced Query Optimization
-▓▓▓▓▓▓▓▓▓▓▓░░░░  Data Structures & Algorithms (LeetCode Easy → Medium)
-▓▓▓▓▓▓▓▓░░░░░░░  Cloud Data Platforms & Orchestration
-▓▓▓▓▓░░░░░░░░░░  Decision Science & Business Analytics
-```
 
 ---
 
