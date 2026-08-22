@@ -35,8 +35,6 @@ nithilan = {
 
 ---
 
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
