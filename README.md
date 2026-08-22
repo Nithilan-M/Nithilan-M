@@ -23,7 +23,6 @@
 
 ```python
 nithilan = {
-    "role"      : "Data Engineering Intern @ FirstSource Solutions",
     "studying"  : "B.E. Computer Science, REC Chennai (2027)",
     "focus"     : ["Data Pipelines", "Backend Systems", "AI Agents"],
     "currently" : "Building ELT workflows & AI-powered orchestration",
@@ -35,21 +34,6 @@ nithilan = {
 - 🤖 Exploring **AI agent automation** using Lyzr AI
 
 ---
-
-## 💼 Experience
-
-```
-[ Feb 2026 – Present ]  Data Engineering Intern @ FirstSource Solutions
-                        ├── Airbyte pipelines: API + DB → relational systems
-                        ├── ELT workflows: schema mapping, incremental sync, dbt transforms
-                        ├── AI agents with Lyzr AI for workflow orchestration
-                        └── Production debugging, validation, pipeline monitoring
-
-[ Jun 2025 – Jul 2025 ]  Web Dev Intern @ Zimro Private Limited, Chennai
-                         ├── Responsive UI with HTML/CSS/JS
-                         ├── API integration with backend teams
-                         └── Git-based version control & code reviews
-```
 
 ---
 
